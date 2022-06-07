@@ -1,0 +1,2 @@
+#!/bin/bash
+http-server -p 3000 --username username --password falorant120749 -c-1
